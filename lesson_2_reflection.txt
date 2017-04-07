@@ -9,18 +9,34 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 	the staging area is not saved. It is a copy of the file ready to be saved with their changes
-	It permets to create a fully logical commit by grouping the files that make sense
+	It permets to create a fully logical commit by grouping the files that make sense.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	By adding files with linked and logical changes
+	Group files following logic before comitting them.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	Working collectively on different implementations. each implementation equal one branch
+	Branches help by keeping a copy of the code for each big change
+	It is easy to change from a branch to another
+	Working on a new feature without affecting the state of the current game
 
 How do the diagrams help you visualize the branch structure?
 
+	Helps by visualisizing the link between each commits
+	Easy to find parents of each commit
+	Easy to see the state of each branches	
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	Combines all commits from both branches into one single branch.
+	Links two or more branches together keeping commit history for each of them
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
