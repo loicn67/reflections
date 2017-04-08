@@ -25,7 +25,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    By using a cloud storage (i.e Dropbox or so) and by saving copies of a file following changes. I woul then email collaborators to suggest the changes. It would prove hard to keep track of the different changes and of the master version.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
