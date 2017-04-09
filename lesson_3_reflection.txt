@@ -30,4 +30,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When working on code we are unsure, or building a new feature, or changing a total aspect of the program. Experimenting without affecting our current program.
+    Benefit of working on another branch : can be bolder in our code as changes will not affect master
+    Benefit of working in master : faster and easier to keep up to date with other contributors online.
